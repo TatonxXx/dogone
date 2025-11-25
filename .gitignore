@@ -1,0 +1,17 @@
+# ignore system files
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.ssh/
+.viminfo
+.profile
+.gnupg/
+
+# python virtual env
+venv/
+__pycache__/
+
+# ignore docker stuff
+*.log
+
